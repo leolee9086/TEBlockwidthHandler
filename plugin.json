@@ -2,7 +2,7 @@
   "name": "TEBlockwidthHandler",
   "author": "椽承设计",
   "url": "https://github.com/leolee9086/TEBlockwidthHandler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "displayName": {
     "default": "TERandomImage",
     "zh_CN": "TE块宽度抓手"
