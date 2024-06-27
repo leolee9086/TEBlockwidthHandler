@@ -1,0 +1,27 @@
+{
+  "name": "TEBlockwidthHandler",
+  "author": "椽承设计",
+  "url": "https://github.com/leolee9086/TEBlockwidthHandler",
+  "version": "0.0.1",
+  "displayName": {
+    "default": "TERandomImage",
+    "zh_CN": "TE块宽度抓手"
+  },
+  "description": {
+    "default": "Add some common operations to various blockicon menus of Siyuan, and also integrate with AI tools such as ChatGPT, Xunfei Spark, rwkv, stable diffusion, etc.",
+    "zh_CN": "给思源的块加上宽度抓手"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "b3log",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://afdian.net/a/leolee9086"
+    ]
+  },
+  "keywords":["ai","ChatGPT","聊天助手","样式","椽承设计"]
+}
