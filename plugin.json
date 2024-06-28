@@ -2,7 +2,7 @@
   "name": "TEBlockwidthHandler",
   "author": "椽承设计",
   "url": "https://github.com/leolee9086/TEBlockwidthHandler",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "displayName": {
     "default": "TERandomImage",
     "zh_CN": "TE块宽度抓手"
@@ -23,5 +23,5 @@
       "https://afdian.net/a/leolee9086"
     ]
   },
-  "keywords":["ai","ChatGPT","聊天助手","样式","椽承设计"]
+  "keywords":["width","decoration","宽度","样式","装饰","椽承设计"]
 }
